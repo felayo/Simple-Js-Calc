@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: rgb(243, 14, 14);
+    border: 2px solid #000;
+    border-radius: 1%;
+    color: #fff;
+    padding: 20px;
+    margin: 30px;
+    width: 70vh;
+}
+
+.calculator-form h1 {
+    text-align: center;
+    color: #000;
+}
+
+.container input {
+    height: 30px;
+    width: 200px;   
+}
