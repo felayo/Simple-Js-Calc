@@ -1,3 +1,4 @@
+// functions for each of the operations
 function add()
 {
         let num1 = document.getElementById("first-input").value;
