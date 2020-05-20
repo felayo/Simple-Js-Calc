@@ -27,3 +27,8 @@ body {
     height: 30px;
     width: 200px;   
 }
+.display {
+    background: #fff;
+    width: 50%;
+    color: black;
+}
